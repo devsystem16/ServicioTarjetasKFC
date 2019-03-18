@@ -1,0 +1,24 @@
+18-03-2019 12:30:49 - ################################################################
+18-03-2019 12:30:49 - Inicia proceso cobro con tarjeta
+18-03-2019 12:30:49 - Procesando ID Canal Movimineto :0F47A090-A349-E911-8110-00505686417C
+18-03-2019 12:30:49 - Actualiza estado de Canal Moviminetos 61 :0F47A090-A349-E911-8110-00505686417C
+18-03-2019 12:30:49 - Movimieto: E014F000069866
+18-03-2019 12:30:49 - Tipo de transaccion:ENVIO CON BANDA.MAGNETICA
+18-03-2019 12:30:49 - Actualiza estado de Requerimineto 61 :74388
+18-03-2019 12:30:49 - Secuencia para validar dispositivo conectado: ninguna
+18-03-2019 12:30:49 - Estado de conexion dispositivo: true
+18-03-2019 12:30:49 - Entra a funcion para validar trama
+18-03-2019 12:30:49 - Trama de requerimineto longitud CORRECTA
+18-03-2019 12:30:50 - Secuencia de Transaccion y trama: ufs5WyU/EcW5q71yc+8+K7q7A42ovafSObVvoWD444WSyojKhCvEpzheAsowB34rXwAf4EUIg+Ng2y/LJ/oqJO7SvTYgJLjU+zJuuEpcb55V4OuH8HAmhSmu/s651KuSChsLB7b7HfzezGk8rMzYmU5NDPCLfyof+2IehBHay+MKwJUn+jgoliYSpni9+TRAstKwmlIkLuD4cNZ4j7YmB7zVZAic8ukrCveIRTOIKGmNbGD+oj7qoLzVZAic8ukrvNVkCJzy6Stbt5LvPS9ThWgEVLm1r7r6aARUubWvuvpoBFS5ta+6+mgEVLm1r7r67gGPJdu5oCh01mYKp86CkMVJhN81PsmfAqK9hTjTAB9wp6Uodquuunb4P5NSnXwqYabklImJKYYvXMO2xaSQ9j2ZODYpjeLKxJ34oecBYV78orFdZ5H0KB/WhVS1hru5ISj4yUrQOAYCY0PxFgug5EO4cZqa7dkkj0r4uoThcQdJvva8vr4gWmgEVLm1r7r6aARUubWvuvpoBFS5ta+6+mgEVLm1r7r6+Gd3GMF7KweG8ABEVa3LDg==
+18-03-2019 12:30:50 - ENTRO a ejecucion del metodo envio con transaccion tipo: ENVIO 
+18-03-2019 12:30:50 - metodo envio con transaccion tipo: ENVIO  EJECUTADO
+18-03-2019 12:30:50 - Respuesta obtenida (Trama): SeEkEDT4dDbSXmF5H7ppqQ9wkjPyMvC75zTpiUval/7Cj40/C+k1BnHRPOp1MJ7wUsIp/RpmlxeRr5/F7mwPPGgEVLm1r7r6aARUubWvuvpoBFS5ta+6+mgEVLm1r7r6aARUubWvuvpoBFS5ta+6+mgEVLm1r7r6aARUubWvuvpoBFS5ta+6+mgEVLm1r7r6aARUubWvuvpoBFS5ta+6+mgEVLm1r7r6aARUubWvuvpoBFS5ta+6+mgEVLm1r7r6aARUubWvuvpoBFS5ta+6+mgEVLm1r7r6aARUubWvuvpoBFS5ta+6+mgEVLm1r7r6aARUubWvuvpoBFS5ta+6+mgEVLm1r7r6aARUubWvuvpoBFS5ta+6+mgEVLm1r7r6aARUubWvuvpoBFS5ta+6+gWZ56PEUtIqSvPJ8WYZ03loBFS5ta+6+mgEVLm1r7r6aARUubWvuvpoBFS5ta+6+mgEVLm1r7r6aARUubWvuvpoBFS5ta+6+jjLqzYYOn2T
+18-03-2019 12:30:50 - [Mensaje de respuesta]  Codigo:  03, Mensaje:  ESTAB INVALIDO ,   Secuencia:  INSERTAR 
+18-03-2019 12:30:50 - Procesando respuesta obtenida.
+18-03-2019 12:30:50 - Entra a funcion Validar trama de respuesta del Switch.
+18-03-2019 12:30:50 - Trama de respuesta del Switch longitud OK
+18-03-2019 12:30:50 - Insertando respuesta en BD.
+18-03-2019 12:30:50 - Respuesta insertada en BD
+18-03-2019 12:30:50 - Actualizar a estado 42 ID: 0F47A090-A349-E911-8110-00505686417C
+18-03-2019 12:30:50 - Trama del movimiento : E014F000069866 ID: 74388 Destruida.
+18-03-2019 12:30:50 - Fin proceso cobro con tarjeta
